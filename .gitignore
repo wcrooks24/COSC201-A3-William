@@ -1,0 +1,6 @@
+*.class
+bin/
+*~
+.settings/
+**/.DS_Store
+**/.vscode
